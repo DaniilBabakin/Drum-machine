@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e7cbcf5.css",
-    "main.js": "/static/js/main.bc4fb9c8.js",
-    "index.html": "/index.html",
-    "main.1e7cbcf5.css.map": "/static/css/main.1e7cbcf5.css.map",
-    "main.bc4fb9c8.js.map": "/static/js/main.bc4fb9c8.js.map"
+    "main.css": "/DaniilBabakin/Drum-machine.gitgi/static/css/main.1e7cbcf5.css",
+    "main.js": "/DaniilBabakin/Drum-machine.gitgi/static/js/main.bc4fb9c8.js",
+    "index.html": "/DaniilBabakin/Drum-machine.gitgi/index.html",
+    "main.1e7cbcf5.css.map": "/DaniilBabakin/Drum-machine.gitgi/static/css/main.1e7cbcf5.css.map",
+    "main.bc4fb9c8.js.map": "/DaniilBabakin/Drum-machine.gitgi/static/js/main.bc4fb9c8.js.map"
   },
   "entrypoints": [
     "static/css/main.1e7cbcf5.css",
